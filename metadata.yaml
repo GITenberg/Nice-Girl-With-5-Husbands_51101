@@ -1,4 +1,8 @@
 _repo: Nice-Girl-With-5-Husbands_51101
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51101-h/images/cover.jpg
 creator:
   author:
     agent_name: Leiber, Fritz
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25421
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51101#Nice-Girl-With-5-Husbands
 gutenberg_issued: '2016-02-01'
 gutenberg_type: Text
 identifiers:
